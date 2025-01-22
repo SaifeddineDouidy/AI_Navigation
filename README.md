@@ -126,9 +126,8 @@ sequenceDiagram
 3. 🌍 Global distribution
 
 ## 📞 Contact & Support
-- **GitHub:** [Repository Link]
-- **Email:** [Contact Email]
-- **Discord:** [Community Channel]
+- **GitHub:** [[Repository Link]](https://github.com/SaifeddineDouidy/AI_Navigation)
+- **Email:** douidysaifeddine@gmail.com & aya.sadoq.2003.lm@gmail.com
 
 ---
 <div align="center">
